@@ -1,2 +1,2 @@
-# one
-A description
+# Hello
+First Hello Git script.
